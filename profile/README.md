@@ -13,17 +13,11 @@ __Password__ : Demo12345
 
 Welcome to InfraLinker, the comprehensive DataCenter infrastructure assets management Solution. Our software has been designed to help you link your DataCenter Infrastructure, server racks, VLANs / IPs, Suppliers, devices, applications, vulnerabilities, and external tickets with ease and efficiency. The InfraLinker software is a flexible tool that can help you quickly and easily configure, manage, and visualize your DataCenter infrastructures. With its intuitive user interface, you can easily create, update, and delete server racks, Network/IP, suppliers, devices, applications, and vulnerabilities, and provides you with an easy-to-use ticketing system that helps you keep track of external tickets and ensure that they are addressed in a timely manner. This helps you streamline your Infrastructure and ensure that any issues that arise are addressed quickly and efficiently.
 
-<center> ![InfraLinker big Logo](images/home_dashboarde.png){ width=80%, align="center" } </center>
-
-
 ## About infralinker
 
 InfraLinker is a modern data center infrastructure assets management solution designed to make managing and tracking your data center assets easier and more efficient. We provide a centralized database that helps eliminate common errors and data leaks associated with traditional methods such as spreadsheets and text documents.
 
 Our intuitive and secure platform allows users to take control of their infrastructure, making it easier to manage and track all their assets. Our primary goal is to help businesses streamline their operations and gain better visibility into their data center infrastructure.
-
-
-<center> ![InfraLinker big Logo](images/Relationship_diagrame_infraLinker.png){ width=70%, align="center" } </center>
 
 - __01 / Data Accuracy__
 With a centralized database, all data is stored in one place, reducing the chances of errors and inconsistencies. This ensures that the data is up-to-date, accurate, and readily available to all authorized users.
