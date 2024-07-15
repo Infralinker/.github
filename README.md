@@ -1,4 +1,5 @@
-# InfraLinker Project.
+# InfraLinker Project
+![InfraLinker big Logo](big-logo.png)
 Visit Website [infralinker.net](https://www.infralinker.net).
 
 ## Demo
@@ -8,8 +9,6 @@ __Login__ : demo@infralinker.net
 __Password__ : Demo12345
 
 ## Introduction
-
-<center> ![InfraLinker big Logo](big-logo.png){ width=50%, align="center" }</center>
 
 Welcome to InfraLinker, the comprehensive DataCenter infrastructure assets management Solution. Our software has been designed to help you link your DataCenter Infrastructure, server racks, VLANs / IPs, Suppliers, devices, applications, vulnerabilities, and external tickets with ease and efficiency. The InfraLinker software is a flexible tool that can help you quickly and easily configure, manage, and visualize your DataCenter infrastructures. With its intuitive user interface, you can easily create, update, and delete server racks, Network/IP, suppliers, devices, applications, and vulnerabilities, and provides you with an easy-to-use ticketing system that helps you keep track of external tickets and ensure that they are addressed in a timely manner. This helps you streamline your Infrastructure and ensure that any issues that arise are addressed quickly and efficiently.
 
