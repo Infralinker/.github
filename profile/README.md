@@ -56,3 +56,5 @@ InfraLinker was built specifically to serve the needs of IT engineers and operat
 * Tags Management.
 * Detailed, automatic change logging.
 * Email notifications for any new/closed tickets, vulnerabilities, or contracts.
+  
+![InfraLinker big Logo](dashbord_dc.png)
