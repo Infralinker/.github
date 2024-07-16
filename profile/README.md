@@ -1,6 +1,6 @@
 # InfraLinker Project
 <p align="center">
-<img src="big-logo.png" alt="InfraLinker big Logo" style="width: 50%; display: block; margin-left: auto; margin-right: auto;">
+<img src="big-logo.png" alt="InfraLinker big Logo" style="width: 70%; display: block; margin-left: auto; margin-right: auto;">
 </p>
 Visit Website [infralinker.net](https://www.infralinker.net).
 
@@ -15,7 +15,9 @@ __Password__ : Demo12345
 Welcome to InfraLinker, the comprehensive DataCenter infrastructure assets management Solution. Our software has been designed to help you link your DataCenter Infrastructure, server racks, VLANs / IPs, Suppliers, devices, applications, vulnerabilities, and external tickets with ease and efficiency. The InfraLinker software is a flexible tool that can help you quickly and easily configure, manage, and visualize your DataCenter infrastructures. With its intuitive user interface, you can easily create, update, and delete server racks, Network/IP, suppliers, devices, applications, and vulnerabilities, and provides you with an easy-to-use ticketing system that helps you keep track of external tickets and ensure that they are addressed in a timely manner. This helps you streamline your Infrastructure and ensure that any issues that arise are addressed quickly and efficiently.
 
 ## About infralinker
-
+<p align="center">
+<img src="Ralationship diagrame infraLinker.webp" alt="InfraLinker big Logo" style="width: 70%; display: block; margin-left: auto; margin-right: auto;">
+</p>
 InfraLinker is a modern data center infrastructure assets management solution designed to make managing and tracking your data center assets easier and more efficient. We provide a centralized database that helps eliminate common errors and data leaks associated with traditional methods such as spreadsheets and text documents.
 
 Our intuitive and secure platform allows users to take control of their infrastructure, making it easier to manage and track all their assets. Our primary goal is to help businesses streamline their operations and gain better visibility into their data center infrastructure.
