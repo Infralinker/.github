@@ -2,6 +2,7 @@
 <p align="center">
 <img src="big-logo.png" alt="InfraLinker big Logo" style="width: 70%; display: block; margin-left: auto; margin-right: auto;">
 </p>
+
 Visit Website [infralinker.net](https://www.infralinker.net).
 
 ## Want to explore? 
